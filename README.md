@@ -91,7 +91,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
           <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
-  <img src="https://img.shields.io/badge/📱 App Móvil-4285F4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/📱 App Móvil-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
@@ -110,7 +110,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
           <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-  <img src="https://img.shields.io/badge/🌐 Website-444444?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
 </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
