@@ -125,10 +125,10 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 ## 🚀 My Projects  
 
 <a href="https://github.com/tuusuario/teamhub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=teamhub&theme=radical" />
+  <img src="ttps://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" />
 </a>
 <a href="https://github.com/tuusuario/musicfy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=musicfy&theme=radical" />
+  <img src="ttps://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" />
 </a>
 
 
