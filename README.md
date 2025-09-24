@@ -5,11 +5,13 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 Passionate Software Engineer specialized in developing web and mobile applications, always seeking new challenges and experiences. Eager to keep learning new technologies, methodologies, and cultures to grow both personally and professionally. I'm also passionate about sports, especially basketball.
-- 🚀 Passionate about building scalable web & mobile apps.
-- 🎨 UX/UI–driven: I turn ideas into clean, accessible, responsive interfaces.
+
+- 🚀 Passionate about building scalable web and mobile applications.
 - 🌱 Always learning (web dev, new languages, better product design).
-- 🌍 I love languages, travel & connecting with people — off-screen: 🏀 + 🎵.
-- ✔ Ask me anything — happy to help • 📫 [pabrod17@gmail.com](mailto:pabrod17@gmail.com)
+- 🎨 Passionate about UX/UI design and building intuitive, user-friendly interfaces.
+- Outside tech, 🏀 I love basketball, 🎵 listening to music and ✈️ traveling around the world. 
+- 📫 Reach out to me at: <a href="pabrod17@gmail.com">pabrod17@gmail.com</a>
+
 
 ## My Skills Include
 
