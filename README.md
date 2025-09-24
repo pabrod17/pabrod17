@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi 👋, I'm Pablo Rodríguez</b></h1>
 <!--  -->
-<img align="right" width=300px alt="Matrix" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" />
+<img align="right" width=300px alt="Pixel Laptop" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
