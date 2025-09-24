@@ -79,48 +79,50 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 <br>
 
 ## 🚀 My Projects  
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">TeamHub Mobile Application</h3>
-<div align="center">
-<a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/ab8f72ad-abd7-4ed1-9c53-f870e5ecb4d9" width="400" alt="TeamHub Mobile App"></a>
-<p>
-<a href="https://github.com/pabrod17/tfm" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>
 
-<td width="50%">
-               <br>
-<h3 align="center">TeamHub Web Application</h3>
-<div align="center">                                       
-<a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="400" alt="TeamHub Web Application"></a>
-<br>
-<p>
-<a href="https://github.com/pabrod17/tfm" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>                                                                                  
-</td>  
-</table>                                                                                 
-</div>
-<br>
+<table>
+  <tr>
+    <!-- TeamHub Mobile -->
+    <td width="50%" align="center">
+      <a href="https://github.com/pabrod17/tfm" target="_blank">
+        <img src="https://github.com/user-attachments/assets/ab8f72ad-abd7-4ed1-9c53-f870e5ecb4d9" width="400" alt="TeamHub Mobile App" />
+      </a>
+      <h3>📱 TeamHub Mobile Application</h3>
+      <p>
+        Aprende a programar aplicaciones <strong>Android con Kotlin</strong> desde cero.  
+        Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible.
+      </p>
+      <p>
+        <a href="https://github.com/pabrod17/tfm" target="_blank">
+          <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://youtu.be/vJapzH_46a8" target="_blank">
+          <img src="https://img.shields.io/badge/▶ Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+        </a>
+      </p>
+    </td>
+
+    <!-- TeamHub Web -->
+    <td width="50%" align="center">
+      <a href="https://github.com/pabrod17/tfm" target="_blank">
+        <img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="400" alt="TeamHub Web Application" />
+      </a>
+      <h3>💻 TeamHub Web Application</h3>
+      <p>
+        Aprende a implementar <strong>arquitecturas reales</strong> con inyección de dependencias,  
+        clean architecture, testing y mucho más.
+      </p>
+      <p>
+        <a href="https://github.com/pabrod17/tfm" target="_blank">
+          <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
+          <img src="https://img.shields.io/badge/▶ Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
