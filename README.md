@@ -124,13 +124,24 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 
 ## 🚀 My Projects  
 
-<a href="https://github.com/tuusuario/teamhub">
-  <img src="ttps://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" />
-</a>
-<a href="https://github.com/tuusuario/musicfy">
-  <img src="ttps://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" />
-</a>
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/tuusuario/teamhub">
+        <img src="./assets/teamhub-preview.png" width="300px" alt="TeamHub"/>
+      </a>
+      <p><b>🏀 TeamHub</b><br>
+      Web & Mobile app for basketball team management.</p>
+    </td>
+    <td>
+      <a href="https://github.com/tuusuario/musicfy">
+        <img src="./assets/musicfy-preview.png" width="300px" alt="Musicfy"/>
+      </a>
+      <p><b>🎵 Musicfy</b><br>
+      Spotify-like app with playlists, player and authentication.</p>
+    </td>
+  </tr>
+</table>
 
 
 <h2>Github stats:</h2> 
