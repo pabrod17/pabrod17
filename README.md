@@ -94,7 +94,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
   <img src="https://img.shields.io/badge/📲 App Móvil-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Android app built with Kotlin that helps basketball coaches and players manage their teams. It allows you to organize trainings, schedule games, track player stats and follow player progress directly from your phone.</p>
 </div>
                                                                                       
 </td>
@@ -113,7 +113,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
   <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Web platform developed with React and Spring Boot to simplify basketball team management. Coaches can plan seasons, manage rosters, create events, and analyze team performance through a clean and intuitive interface.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
