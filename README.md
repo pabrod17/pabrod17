@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi 👋, I'm Pablo Rodríguez</b></h1>
 <!--  -->
-<img align="right" width=300px alt="Coder" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width=300px alt="Coder" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNjNHI2cm5icGswOXl4em4yMXduN2VpZW1iZmUwaDNtdG1ibWVyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
