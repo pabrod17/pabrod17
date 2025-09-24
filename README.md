@@ -100,9 +100,9 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">TeamHub Web Application</h3>
 <div align="center">                                       
-<a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/ab8f72ad-abd7-4ed1-9c53-f870e5ecb4d9" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="400" alt="TeamHub Web Application"></a>
 <br>
 <p>
 <a href="https://github.com/pabrod17/tfm" target="_blank">
