@@ -1,6 +1,10 @@
 <h1 align="center"><b>Hi 👋, I'm Pablo Rodríguez</b></h1>
 <!--  -->
-<img align="right" width=300px alt="Coding Cat" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
+<img align="right" width=300px alt="Coder" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width=300px alt="Pixel Laptop" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" />
+<img align="right" width=300px alt="Matrix" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" />
+<img align="right" width=300px alt="Basketball" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" />
+<img align="right" width=300px alt="Coffee" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
