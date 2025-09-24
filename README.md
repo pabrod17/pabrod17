@@ -5,13 +5,17 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 Passionate Software Engineer specialized in developing web and mobile applications, always seeking new challenges and experiences. Eager to keep learning new technologies, methodologies, and cultures to grow both personally and professionally. I'm also passionate about sports, especially basketball.
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
+- 🌱 I’m currently learning Web Development and other programming languages.
+- 
+- 🚀 Passionate about building scalable web and mobile applications.
+- 🔍 Interested in UX/UI design and creating great user experiences.
 - ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
+
+- 🌏 Big fan of learning new languages and connecting with people around the world.
+- 🎨 I enjoy combining code and design to craft seamless user experiences.  
+- Outside tech, 🏀 I love basketball, 🎵 listening to music, and ✈️ traveling around the world.  
+
+
 - 📫 Reach out to me at: <a href="pabrod17@gmail.com">pabrod17@gmail.com</a>
 
 ## My Skills Include
