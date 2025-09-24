@@ -91,7 +91,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
           <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
-  <img src="https://img.shields.io/badge/📲 App Móvil-6A5ACD?style=for-the-badge&logoColor=white&labelColor=483D8B" />
+  <img src="https://img.shields.io/badge/📲 App Móvil-001F54?style=for-the-badge&logoColor=white&labelColor=800020" />
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
