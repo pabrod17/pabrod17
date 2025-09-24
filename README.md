@@ -116,13 +116,19 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 </div>                                                             
 </table>                                                                                 
 </div>
-<br>
-
-                                                                                      
+<br>                                                                                  
 </td>  
 </table>                                                                                 
 </div>
 <br>
+
+## 🚀 My Projects  
+
+- 🏀 **TeamHub** → Web & Mobile app for basketball team management.  
+  [🔗 Repo](https://github.com/tuusuario/teamhub) • [🌐 Demo](https://teamhub.vercel.app)  
+
+- 🎵 **Musicfy** → Spotify-like app with playlists, player and authentication.  
+  [🔗 Repo](https://github.com/tuusuario/musicfy) • [🌐 Demo](https://musicfy.vercel.app)  
 
 
 
