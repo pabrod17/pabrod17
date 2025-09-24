@@ -6,7 +6,7 @@
 
 Passionate Software Engineer specialized in developing web and mobile applications, always seeking new challenges and experiences. Eager to keep learning new technologies, methodologies, and cultures to grow both personally and professionally. I'm also passionate about sports, especially basketball.
 - 🌱 I’m currently learning Web Development and other programming languages.
-- 
+  
 - 🚀 Passionate about building scalable web and mobile applications.
 - 🔍 Interested in UX/UI design and creating great user experiences.
 - ✔ Ask me about anything, I am happy to help<br>
