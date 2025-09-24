@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Passionate Software Engineer specialized in developing web and mobile applications, always seeking new challenges and experiences. I recently completed an English course in Australia, earning the Cambridge First Certificate (B2), and I’m now preparing for the Advanced Certificate (C1). Eager to keep learning new technologies, methodologies, and cultures to grow both personally and professionally. I'm also passionate about sports, especially basketball.
+Passionate Software Engineer specialized in developing web and mobile applications, always seeking new challenges and experiences. Eager to keep learning new technologies, methodologies, and cultures to grow both personally and professionally. I'm also passionate about sports, especially basketball.
 - 🌱 I’m currently learning ...
   - Nest.js
   - Angular
