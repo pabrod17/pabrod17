@@ -107,7 +107,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 <br>
 <p>
 <a href="https://github.com/pabrod17/tfm" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
