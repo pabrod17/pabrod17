@@ -78,7 +78,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 
 <br>
 
-## Proyectos *bombitas*
+## 🚀 My Projects  
 <table>
 <tr>
 <td width="50%">
@@ -122,26 +122,6 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 </div>
 <br>
 
-## 🚀 My Projects  
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/tuusuario/teamhub">
-        <img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="300px" alt="TeamHub"/>
-      </a>
-      <p><b>🏀 TeamHub</b><br>
-      Web & Mobile app for basketball team management.</p>
-    </td>
-    <td>
-      <a href="https://github.com/tuusuario/musicfy">
-        <img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="300px" alt="Musicfy"/>
-      </a>
-      <p><b>🎵 Musicfy</b><br>
-      Spotify-like app with playlists, player and authentication.</p>
-    </td>
-  </tr>
-</table>
 
 
 <h2>Github stats:</h2> 
