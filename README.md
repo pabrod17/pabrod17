@@ -9,7 +9,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 - 🚀 Passionate about building scalable web and mobile applications.
 - 🌱 Always learning (web dev, new languages, better product design).
 - 🎨 Passionate about UX/UI design and building intuitive, user-friendly interfaces.
-- 🌍 Tech journey across Spain 🇪🇸 & Australia 🇦🇺.
+- 🌍 Tech journey across Spain 🇪🇸  & Australia 🇦🇺.
 - Outside tech, 🏀 I love basketball, 🎵 listening to music and ✈️ traveling around the world. 
 - 📫 Reach out to me at: <a href="pabrod17@gmail.com">pabrod17@gmail.com</a>
 
