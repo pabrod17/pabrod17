@@ -82,9 +82,9 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">TeamHub Mobile Application</h3>
 <div align="center">
-<a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/pabrod17/pabrod17/issues/1#issue-3451179927" width="400" alt="TeamHub Mobile App"></a>
+<a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/ab8f72ad-abd7-4ed1-9c53-f870e5ecb4d9" width="400" alt="TeamHub Mobile App"></a>
 <p>
 <a href="https://github.com/pabrod17/tfm" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
