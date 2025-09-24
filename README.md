@@ -4,7 +4,6 @@
 1iZmUwaDNtdG1ibWVyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 
-![Uploading perfil2.jpeg…]()
 
 
 
