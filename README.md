@@ -1,5 +1,4 @@
 <h1 align="center"><b>Hi 👋, I'm Pablo Rodríguez</b></h1>
-<!--  -->
 
 
 
@@ -164,6 +163,6 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 
 
 <h2>Github stats:</h2> 
-
+<!-- transparent / tokyonight -->
 [![](https://github-readme-streak-stats.herokuapp.com/?user=pabrod17&theme=tokyonight)](https://github.com/pabrod17)
 </div>
