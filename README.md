@@ -102,7 +102,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 <td width="50%">
 <h2 align="center">TeamHub ( Web Application )</h2>
 <div align="center">                                       
-<a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="500" alt="TeamHub Web Application"></a>
+<a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="450" alt="TeamHub Web Application"></a>
 <br>
 <p>
 <a href="https://github.com/pabrod17/tfm" target="_blank">
