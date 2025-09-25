@@ -115,6 +115,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 </p>
 </p>Web platform developed with React and Spring Boot to simplify basketball team management. Coaches can plan seasons, manage rosters, create events, and analyze team performance through a clean and intuitive interface.</p>
 </div>
+</td>                                                                                  
 
 
 <tr>
@@ -138,7 +139,6 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 </table>                                                                                 
 </div>
 <br>                                                                                  
-</td>                                                                                  
 </div>
 <br>
 
