@@ -149,7 +149,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
   <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
-</p>Web platform developed with React and Spring Boot to simplify basketball team management. Coaches can plan seasons, manage rosters, create events, and analyze team performance through a clean and intuitive interface.</p>
+</p>PlantCare is a full stack application that helps users identify, organize, and monitor their plants. The mobile client, developed in Kotlin, connects to a backend powered by FastAPI in Python, providing plant detection features and management tools. The app also enables users to share plant collections with friends and uses Docker to simplify development and deployment.</p>
 </div>
 </td>    
 
