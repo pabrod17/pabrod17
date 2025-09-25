@@ -137,7 +137,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 
 
 <td width="50%">
-<h2 align="center">TeamHub Web Application</h2>
+<h2 align="center">Plant Planner Android Application</h2>
 <div align="center">                                       
 <a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/anton-gendra/plant-planner/assets/78569753/18fe0fa8-d716-433a-bed1-34d29fe6246f" width="300" height="250" alt="TeamHub Web Application"></a>
 <br>
@@ -149,7 +149,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
   <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
-</p>PlantCare is a cross-platform application designed to detect and manage your plants, providing insights into their care and growth. Built with Kotlin and FastAPI (Python), it allows users to track plant data, manage collections, and share them with friends. The project leverages Docker for easy deployment and scalability.</p>
+</p>PlantCare is an app to detect, manage, and share your plants with friends. Built with Kotlin and FastAPI (Python), it uses Docker for simple deployment and scalability.</p>
 </div>
 </td>    
 
