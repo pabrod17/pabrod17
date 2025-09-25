@@ -149,7 +149,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
   <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
-</p>Plant Planner is an app to detect, manage, and share your plants with friends. Built with Kotlin and FastAPI (Python), it uses Docker for simple deployment and scalability.</p>
+</p>Plant Planner is a cross-platform application designed to detect and manage your plants, providing insights into their care and growth. Built with Kotlin and FastAPI (Python), it allows users to track plant data, manage collections, and share them with friends. The project leverages Docker for easy deployment and scalability.</p>
 </div>
 </td>    
 
