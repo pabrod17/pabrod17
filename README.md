@@ -119,7 +119,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 
 <tr>
 <td width="50%">
-<h2 align="center">TeamHub Mobile Application</h2>
+<h2 align="center">Imaface Django Application </h2>
 <div align="center">
 <a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/65490118-6c4d-4ed8-bd6d-4f648bcc6a3d" width="300" height="250" alt="TeamHub Mobile App"></a>
 <p>
@@ -130,7 +130,8 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
   <img src="https://img.shields.io/badge/📲 App Móvil-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
-<p>Android app built with Kotlin that helps basketball coaches and players manage their teams. It allows you to organize trainings, schedule games, track player stats and follow player progress directly from your phone.</p>
+<p>Imaface is a full stack platform built with Django that leverages multiple APIs to collect and analyze data from different YouTube video categories. Users can visualize insights through interactive graphs and directly share results on Twitter.
+The application integrates with Spotify for additional data enrichment and uses OAuth2 for secure authentication.</p>
 </div>
                                                                                       
 </td>
