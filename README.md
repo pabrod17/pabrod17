@@ -160,7 +160,6 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 </div>
 <br>
 
-<!-- transparent / tokyonight -->
 
 
 <h2>Github stats:</h2> 
