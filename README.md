@@ -135,6 +135,27 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 </div>
                                                                                       
 </td>
+
+
+<td width="50%">
+               <br>
+<h2 align="center">TeamHub Web Application</h2>
+<div align="center">                                       
+<a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="500" alt="TeamHub Web Application"></a>
+<br>
+<p>
+<a href="https://github.com/pabrod17/tfm" target="_blank">
+          <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
+  <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
+</a>
+</p>
+</p>Web platform developed with React and Spring Boot to simplify basketball team management. Coaches can plan seasons, manage rosters, create events, and analyze team performance through a clean and intuitive interface.</p>
+</div>
+</td>    
+
+
   
 </table>                                                                                 
 </div>
