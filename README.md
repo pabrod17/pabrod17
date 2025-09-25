@@ -164,5 +164,6 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 
 
 <h2>Github stats:</h2> 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=pabrod17&theme=transparent)](https://github.com/pabrod17)
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=tokyonight)](https://github.com/pabrod17)
 </div>
