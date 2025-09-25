@@ -130,8 +130,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
   <img src="https://img.shields.io/badge/📲 App Móvil-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
-<p>Imaface is a full stack platform built with Django that leverages multiple APIs to collect and analyze data from different YouTube video categories. Users can visualize insights through interactive graphs and directly share results on Twitter.
-The application integrates with Spotify for additional data enrichment and uses OAuth2 for secure authentication.</p>
+<p>Imaface is a full stack platform built with Django that leverages multiple APIs to collect and analyze data from different YouTube video categories. Users can visualize insights through interactive graphs and directly share results on Twitter.</p>
 </div>
                                                                                       
 </td>
