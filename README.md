@@ -149,7 +149,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
   <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
-</p>Full stack application designed to detect and manage your plants, providing insights into their care and growth. The project is built with Kotlin for the mobile client and FastAPI (Python) for the backend, and uses Docker to ensure easy deployment and scalability.</p>
+</p>Full stack application designed to detect and manage your plants, providing insights into their care and growth. Project built with Kotlin for the mobile client and FastAPI (Python) for the backend, and uses Docker to ensure easy deployment and scalability.</p>
 </div>
 </td>    
 
