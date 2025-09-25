@@ -149,7 +149,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
   <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
-</p>Mobile application that helps users identify, organize, and monitor their plants. The mobile client, developed in Kotlin, connects to a backend powered by FastAPI in Python, providing plant detection features and management tools. The app also enables users to share plant collections with friends and uses Docker to simplify development and deployment.</p>
+</p>PlantCare is a cross-platform application designed to detect and manage your plants, providing insights into their care and growth. Built with Kotlin and FastAPI (Python), it allows users to track plant data, manage collections, and share them with friends. The project leverages Docker for easy deployment and scalability.</p>
 </div>
 </td>    
 
