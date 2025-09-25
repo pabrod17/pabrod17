@@ -78,7 +78,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 
 <br>
 
-## 🚀 My Projects  
+## 🚀 Projects  
 
 <table>
 <tr>
