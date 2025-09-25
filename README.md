@@ -121,7 +121,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 <td width="50%">
 <h2 align="center">Imaface ( Django Application ) </h2>
 <div align="center">
-<a href="https://github.com/pabrod17/pi1920" target="_blank"><img src="https://github.com/user-attachments/assets/65490118-6c4d-4ed8-bd6d-4f648bcc6a3d" width="350" height="200" alt="TeamHub Mobile App"></a>
+<a href="https://github.com/pabrod17/pi1920" target="_blank"><img src="https://github.com/user-attachments/assets/65490118-6c4d-4ed8-bd6d-4f648bcc6a3d" width="370" height="200" alt="TeamHub Mobile App"></a>
 <p>
 <a href="https://github.com/pabrod17/pi1920" target="_blank">
           <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
