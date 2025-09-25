@@ -160,9 +160,9 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 </div>
 <br>
 
+<!-- transparent / tokyonight -->
 
 
 <h2>Github stats:</h2> 
-<!-- transparent / tokyonight -->
 [![](https://github-readme-streak-stats.herokuapp.com/?user=pabrod17&theme=tokyonight)](https://github.com/pabrod17)
 </div>
