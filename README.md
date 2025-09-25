@@ -108,7 +108,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 <a href="https://github.com/pabrod17/tfm" target="_blank">
           <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
+<a href="https://www.teamhubbasket.com/" target="_blank">
   <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
@@ -121,12 +121,12 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 <td width="50%">
 <h2 align="center">Imaface Django Application </h2>
 <div align="center">
-<a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/65490118-6c4d-4ed8-bd6d-4f648bcc6a3d" width="300" height="250" alt="TeamHub Mobile App"></a>
+<a href="https://github.com/pabrod17/pi1920" target="_blank"><img src="https://github.com/user-attachments/assets/65490118-6c4d-4ed8-bd6d-4f648bcc6a3d" width="300" height="250" alt="TeamHub Mobile App"></a>
 <p>
-<a href="https://github.com/pabrod17/tfm" target="_blank">
+<a href="https://github.com/pabrod17/pi1920" target="_blank">
           <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<a href="https://www.teamhubbasket.com/" target="_blank">
   <img src="https://img.shields.io/badge/📲 App Móvil-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
