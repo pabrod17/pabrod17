@@ -127,7 +127,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
           <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.teamhubbasket.com/" target="_blank">
-  <img src="https://img.shields.io/badge/📲 App Móvil-2C2C2C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
 <p>Imaface is a full stack platform built with Django that leverages multiple APIs to collect and analyze data from different YouTube video categories. Users can visualize insights through interactive graphs and directly share results on Twitter.</p>
@@ -146,7 +146,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
           <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/anton-gendra/plant-planner" target="_blank">
-  <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/📲 App Móvil-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
 </p>Full stack application designed to detect and manage your plants, providing insights into their care and growth. Project built with Kotlin for the mobile client and FastAPI (Python) for the backend, and uses Docker to ensure easy deployment and scalability.</p>
