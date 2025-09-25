@@ -137,7 +137,6 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 
 
 <td width="50%">
-               <br>
 <h2 align="center">TeamHub Web Application</h2>
 <div align="center">                                       
 <a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/anton-gendra/plant-planner/assets/78569753/18fe0fa8-d716-433a-bed1-34d29fe6246f" width="250" alt="TeamHub Web Application"></a>
