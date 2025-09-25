@@ -114,12 +114,31 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 </a>
 </p>
 </p>Web platform developed with React and Spring Boot to simplify basketball team management. Coaches can plan seasons, manage rosters, create events, and analyze team performance through a clean and intuitive interface.</p>
-</div>                                                             
+</div>
+
+
+<tr>
+<td width="50%">
+<h2 align="center">TeamHub Mobile Application</h2>
+<div align="center">
+<a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/ab8f72ad-abd7-4ed1-9c53-f870e5ecb4d9" width="500" alt="TeamHub Mobile App"></a>
+<p>
+<a href="https://github.com/pabrod17/tfm" target="_blank">
+          <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+  <img src="https://img.shields.io/badge/📲 App Móvil-2C2C2C?style=for-the-badge&logoColor=white" />
+</a>
+</p>
+<p>Android app built with Kotlin that helps basketball coaches and players manage their teams. It allows you to organize trainings, schedule games, track player stats and follow player progress directly from your phone.</p>
+</div>
+                                                                                      
+</td>
+  
 </table>                                                                                 
 </div>
 <br>                                                                                  
-</td>  
-</table>                                                                                 
+</td>                                                                                  
 </div>
 <br>
 
