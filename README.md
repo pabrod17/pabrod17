@@ -81,7 +81,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 <table>
 <tr>
 <td width="50%">
-<h2 align="center">TeamHub ( Mobile Application )</h2>
+<h2 align="center">TeamHub (Mobile Application)</h2>
 <div align="center">
 <a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/ab8f72ad-abd7-4ed1-9c53-f870e5ecb4d9" width="370" alt="TeamHub Mobile App"></a>
 <p>
@@ -98,7 +98,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 </td>
 
 <td width="50%">
-<h2 align="center">TeamHub ( Web Application )</h2>
+<h2 align="center">TeamHub (Web Application)</h2>
 <div align="center">                                       
 <a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="370" alt="TeamHub Web Application"></a>
 <br>
@@ -135,7 +135,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 
 
 <td width="50%">
-<h2 align="center">Plant Planner ( Android Application )</h2>
+<h2 align="center">Plant Planner (Android Application)</h2>
 <div align="center">                                       
 <a href="https://github.com/anton-gendra/plant-planner" target="_blank"><img src="https://github.com/anton-gendra/plant-planner/assets/78569753/18fe0fa8-d716-433a-bed1-34d29fe6246f" width="320" height="200" alt="TeamHub Web Application"></a>
 <br>
