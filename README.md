@@ -87,7 +87,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
   <a target="_blank"><img src="https://github.com/user-attachments/assets/ab8f72ad-abd7-4ed1-9c53-f870e5ecb4d9" width="370" alt="TeamHub Mobile App"></a>
 <p>
 <!-- <a href="https://github.com/pabrod17/tfm" target="_blank"> -->
-  <a target="_blank">
+  <a>
           <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <!-- <a href="https://www.teamhubbasket.com/" target="_blank"> -->
