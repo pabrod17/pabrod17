@@ -83,12 +83,15 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 <td width="50%">
 <h2 align="center">TeamHub (Mobile Application)</h2>
 <div align="center">
-<a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/ab8f72ad-abd7-4ed1-9c53-f870e5ecb4d9" width="370" alt="TeamHub Mobile App"></a>
+<!-- <a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/ab8f72ad-abd7-4ed1-9c53-f870e5ecb4d9" width="370" alt="TeamHub Mobile App"></a> -->
+  <a target="_blank"><img src="https://github.com/user-attachments/assets/ab8f72ad-abd7-4ed1-9c53-f870e5ecb4d9" width="370" alt="TeamHub Mobile App"></a>
 <p>
-<a href="https://github.com/pabrod17/tfm" target="_blank">
+<!-- <a href="https://github.com/pabrod17/tfm" target="_blank"> -->
+  <a target="_blank">
           <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.teamhubbasket.com/" target="_blank">
+<!-- <a href="https://www.teamhubbasket.com/" target="_blank"> -->
+  <a target="_blank">
   <img src="https://img.shields.io/badge/📲 App Móvil-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
@@ -100,13 +103,16 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 <td width="50%">
 <h2 align="center">TeamHub (Web Application)</h2>
 <div align="center">                                       
-<a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="370" alt="TeamHub Web Application"></a>
+<!-- <a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="370" alt="TeamHub Web Application"></a> -->
+<a target="_blank"><img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="370" alt="TeamHub Web Application"></a>
 <br>
 <p>
-<a href="https://github.com/pabrod17/tfm" target="_blank">
+<!-- <a href="https://github.com/pabrod17/tfm" target="_blank"> -->
+<a target="_blank">
           <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.teamhubbasket.com/" target="_blank">
+<!-- <a href="https://www.teamhubbasket.com/" target="_blank"> -->
+<a target="_blank">
   <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
