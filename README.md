@@ -184,6 +184,31 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 
 
 
+<td width="50%">
+<h2 align="center">GTA VI Countdown (ViceHype)</h2>
+<div align="center">                                       
+<!-- <a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="370" alt="TeamHub Web Application"></a> -->
+<a href="https://www.vicehype.com" target="_blank"><img src="https://github.com/user-attachments/assets/23c73349-df98-4006-8c88-17a989d26957" width="370" alt="GTA VI Countdown"></a>
+
+<br>
+<p>
+<a href="https://www.vicehype.com" target="_blank">
+<a href="https://www.vicehype.com" target="_blank">
+          <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.vicehype.com" target="_blank">
+<a href="https://www.vicehype.com" target="_blank">
+  <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
+</a>
+</p>
+</p>Fan-made GTA VI countdown built with React and Vite. Shows the exact time remaining until release with a dynamic UI, monthly themes, animations and interactive effects, continuously updated with new designs.</p>
+</div>
+</td>  
+
+
+
+
+
   
 </table>                                                                                 
 </div>
