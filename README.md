@@ -170,11 +170,11 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 <br>
 <p>
 <a href="https://github.com/pabrod17/task-manager" target="_blank">
-<a target="_blank">
+<a href="https://github.com/pabrod17/task-manager" target="_blank">
           <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://task-manager-lake-tau-77.vercel.app" target="_blank">
-<a target="_blank">
+<a href="https://task-manager-lake-tau-77.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
