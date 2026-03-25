@@ -91,7 +91,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
           <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <!-- <a href="https://www.teamhubbasket.com/" target="_blank"> -->
-  <a target="_blank">
+  <a href="https://www.teamhubbasket.com/" target="_blank">
   <img src="https://img.shields.io/badge/📲 App Móvil-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
@@ -112,7 +112,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
           <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.teamhubbasket.com/" target="_blank">
-<a target="_blank">
+<a href="https://www.teamhubbasket.com/" target="_blank">
   <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
@@ -178,7 +178,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
   <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
-</p>Full stack task management application built with React and Spring Boot for a technical interview. It allows users to create, list, complete and delete tasks through a clean interface, backed by a RESTful API and an in-memory H2 database, with pagination support and a focus on clean architecture and best practices.</p>
+</p>Task management application built with React and Spring Boot for a technical interview. It allows users to create, list, complete and delete tasks, using a REST API, H2 database and pagination.</p>
 </div>
 </td>  
 
