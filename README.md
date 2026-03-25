@@ -166,7 +166,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
   <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
-</p>Task management application built with React and Spring Boot for a technical interview. It allows users to create, list, complete and delete tasks, using a REST API, H2 database and pagination.</p>
+</p>Task management application built with React and Spring Boot for a technical interview. It allows users to create, list, complete and delete tasks, using a REST API, H2 database and pagination, following a clean full-stack architecture.</p>
 </div>
 </td>  
 
