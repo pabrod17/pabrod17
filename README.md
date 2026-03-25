@@ -161,7 +161,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 
 <tr>
 <td width="50%">
-<h2 align="center">TeamHub (Web Application)</h2>
+<h2 align="center">Task Manager</h2>
 <div align="center">                                       
 <!-- <a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="370" alt="TeamHub Web Application"></a> -->
 <a target="_blank"><img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="370" alt="Task Manager"></a>
