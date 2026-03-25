@@ -176,7 +176,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
   <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
 </a>
 </p>
-</p>Web platform developed with React and Spring Boot to simplify basketball team management. Coaches can plan seasons, manage rosters, create events, and analyze team performance through a clean and intuitive interface.</p>
+</p>Web application built with React and Spring Boot for a technical interview. It allows users to create, update and organize tasks through a clean interface, powered by a RESTful API and a simple full stack architecture.</p>
 </div>
 </td>  
 
