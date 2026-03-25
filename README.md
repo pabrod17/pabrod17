@@ -151,7 +151,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
   
 <!-- <td width="50%" valign="top"> -->
 <td width="50%">
-<h2 align="center">Task Manager (Full Stack Application)</h2>
+<h2 align="center">Task Management (Full Stack Application)</h2>
 <div align="center">                                       
 <!-- <a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="370" alt="TeamHub Web Application"></a> -->
 <a href="https://task-manager-lake-tau-77.vercel.app" target="_blank"><img src="https://github.com/user-attachments/assets/d40e8d7a-bf29-42ea-88ac-c48bb358d263" width="370" alt="Task Manager"></a>
