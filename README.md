@@ -128,7 +128,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 <h2 align="center">GTA VI Countdown (ViceHype)</h2>
 <div align="center">                                       
 <!-- <a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="370" alt="TeamHub Web Application"></a> -->
-<a href="https://www.vicehype.com" target="_blank"><img src="https://github.com/user-attachments/assets/23c73349-df98-4006-8c88-17a989d26957" width="320" height="200" alt="GTA VI Countdown"></a>
+<a href="https://www.vicehype.com" target="_blank"><img src="https://github.com/user-attachments/assets/23c73349-df98-4006-8c88-17a989d26957" width="370" alt="GTA VI Countdown"></a>
 
 <br>
 <p>
@@ -154,7 +154,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 <h2 align="center">Task Manager (Full Stack Application)</h2>
 <div align="center">                                       
 <!-- <a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="370" alt="TeamHub Web Application"></a> -->
-<a href="https://task-manager-lake-tau-77.vercel.app" target="_blank"><img src="https://github.com/user-attachments/assets/d25cde52-f8c0-4924-8d74-3532df5f432c" width="320" height="200" alt="Task Manager"></a>
+<a href="https://task-manager-lake-tau-77.vercel.app" target="_blank"><img src="https://github.com/user-attachments/assets/d25cde52-f8c0-4924-8d74-3532df5f432c" width="370" alt="Task Manager"></a>
 
   
 <br>
