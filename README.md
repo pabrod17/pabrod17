@@ -121,6 +121,62 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 </td>                                                                                  
 
 
+
+<tr>
+<td width="50%">
+<h2 align="center">GTA VI Countdown (ViceHype)</h2>
+<div align="center">                                       
+<!-- <a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="370" alt="TeamHub Web Application"></a> -->
+<a href="https://www.vicehype.com" target="_blank"><img src="https://github.com/user-attachments/assets/23c73349-df98-4006-8c88-17a989d26957" width="370" alt="GTA VI Countdown"></a>
+
+<br>
+<p>
+<a href="https://www.vicehype.com" target="_blank">
+<a href="https://www.vicehype.com" target="_blank">
+          <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.vicehype.com" target="_blank">
+<a href="https://www.vicehype.com" target="_blank">
+  <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
+</a>
+</p>
+</p>Fan-made GTA VI countdown built with React and Vite. Shows the exact time remaining until release with a dynamic UI, monthly themes, animations and interactive effects, continuously updated with new designs.</p>
+</div>
+</td>
+
+
+
+
+  
+<td width="50%">
+<h2 align="center">Task Manager (Full Stack Application)</h2>
+<div align="center">                                       
+<!-- <a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="370" alt="TeamHub Web Application"></a> -->
+<a href="https://task-manager-lake-tau-77.vercel.app" target="_blank"><img src="https://github.com/user-attachments/assets/d25cde52-f8c0-4924-8d74-3532df5f432c" width="370" alt="Task Manager"></a>
+
+  
+<br>
+<p>
+<a href="https://github.com/pabrod17/task-manager" target="_blank">
+<a href="https://github.com/pabrod17/task-manager" target="_blank">
+          <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://task-manager-lake-tau-77.vercel.app" target="_blank">
+<a href="https://task-manager-lake-tau-77.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
+</a>
+</p>
+</p>Task management application built with React and Spring Boot for a technical interview. It allows users to create, list, complete and delete tasks, using a REST API, H2 database and pagination.</p>
+</div>
+</td>  
+
+
+
+
+
+
+
+
 <tr>
 <td width="50%">
 <h2 align="center">Imaface (Django Application) </h2>
@@ -159,51 +215,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 
 
 
-<tr>
-<td width="50%">
-<h2 align="center">Task Manager (Full Stack Application)</h2>
-<div align="center">                                       
-<!-- <a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="370" alt="TeamHub Web Application"></a> -->
-<a href="https://task-manager-lake-tau-77.vercel.app" target="_blank"><img src="https://github.com/user-attachments/assets/d25cde52-f8c0-4924-8d74-3532df5f432c" width="370" alt="Task Manager"></a>
 
-  
-<br>
-<p>
-<a href="https://github.com/pabrod17/task-manager" target="_blank">
-<a href="https://github.com/pabrod17/task-manager" target="_blank">
-          <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://task-manager-lake-tau-77.vercel.app" target="_blank">
-<a href="https://task-manager-lake-tau-77.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
-</a>
-</p>
-</p>Task management application built with React and Spring Boot for a technical interview. It allows users to create, list, complete and delete tasks, using a REST API, H2 database and pagination.</p>
-</div>
-</td>  
-
-
-
-<td width="50%">
-<h2 align="center">GTA VI Countdown (ViceHype)</h2>
-<div align="center">                                       
-<!-- <a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="370" alt="TeamHub Web Application"></a> -->
-<a href="https://www.vicehype.com" target="_blank"><img src="https://github.com/user-attachments/assets/23c73349-df98-4006-8c88-17a989d26957" width="370" alt="GTA VI Countdown"></a>
-
-<br>
-<p>
-<a href="https://www.vicehype.com" target="_blank">
-<a href="https://www.vicehype.com" target="_blank">
-          <img src="https://img.shields.io/badge/🔗 Código-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.vicehype.com" target="_blank">
-<a href="https://www.vicehype.com" target="_blank">
-  <img src="https://img.shields.io/badge/🌐 Website-2C2C2C?style=for-the-badge&logoColor=white" />
-</a>
-</p>
-</p>Fan-made GTA VI countdown built with React and Vite. Shows the exact time remaining until release with a dynamic UI, monthly themes, animations and interactive effects, continuously updated with new designs.</p>
-</div>
-</td>  
 
 
 
