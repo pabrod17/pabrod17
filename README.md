@@ -124,7 +124,7 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 
 <tr>
 <!-- <td width="50%" valign="top"> -->
-<td width="50%" valign="top">
+<td width="50%">
 <h2 align="center">GTA VI Countdown (ViceHype)</h2>
 <div align="center">                                       
 <!-- <a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="370" alt="TeamHub Web Application"></a> -->
@@ -150,8 +150,8 @@ Passionate Software Engineer specialized in developing web and mobile applicatio
 
   
 <!-- <td width="50%" valign="top"> -->
-<td width="50%" valign="top">
-<h2 align="center">Task Management (Full Stack Application)</h2>
+<td width="50%">
+<h2 align="center">Task Manager (Full Stack Application)</h2>
 <div align="center">                                       
 <!-- <a href="https://github.com/pabrod17/tfm" target="_blank"><img src="https://github.com/user-attachments/assets/189ff8d1-f410-464b-a5c6-731d0d413a81" width="370" alt="TeamHub Web Application"></a> -->
 <a href="https://task-manager-lake-tau-77.vercel.app" target="_blank"><img src="https://github.com/user-attachments/assets/d52750ba-948c-49a8-81d4-0fa7ab1a1369" width="370" alt="Task Manager"></a>
